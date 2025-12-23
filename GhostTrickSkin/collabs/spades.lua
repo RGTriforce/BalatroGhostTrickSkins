@@ -21,18 +21,18 @@ SMODS.DeckSkin {
     loc_txt = "Ghost Trick",
     palettes = {
         {
-            key = 'lc',
-            ranks = {'Jack', 'Queen', 'King'},
+            key = "lc",
+            ranks = {"Jack", "Queen", "King"},
             display_ranks = {"King", "Queen", "Jack"},
             atlas = "gtskin_spadesLow",
-            pos_style = 'ranks',
+            pos_style = "ranks",
         },
         {
-            key = 'hc',
-            ranks = {'Jack', 'Queen', 'King'},
+            key = "hc",
+            ranks = {"Jack", "Queen", "King"},
             display_ranks = {"King", "Queen", "Jack"},
             atlas = "gtskin_spadesHigh",
-            pos_style = 'ranks',
+            pos_style = "ranks",
             hc_default = true,
         }
     },
